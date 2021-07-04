@@ -10,5 +10,15 @@ npm install
 ```
 npm start
 ```
+#### To Run this on Docker, run the below code cells
+```
+docker-compose build
+```
 
-
+```
+docker-compose up
+```
+#### To view the application, open the below url on your browser window
+```
+http://localhost:3000/
+```
