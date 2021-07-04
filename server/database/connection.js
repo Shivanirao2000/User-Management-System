@@ -16,20 +16,6 @@ const connectDB = async () => {
         process.exit(1);
     }
 
-    // try{
-    //     mongoose.connect(process.env.MONGO_URI, {
-    //     useNewUrlParser: true,
-    //     useUnifiedTopology: true
-    // });
-
-    // mongoose.connection.on('connected', () => {
-    //     console.log('Mongoose is connected!!!!');
-    // });
-    // }catch(err){
-    //     console.log(err);
-    //     process.exit(1);
-    // }
-    
 
 }
 
