@@ -18,7 +18,8 @@ docker-compose build
 ```
 docker-compose up
 ```
-#### To view the application, open the below url on your browser window
+#### To view the application on your local device, open the below url on your browser window
 ```
 http://localhost:3000/
 ```
+#### The application has been deployed on Heroku. To view the application, click [here](https://user-management-system1.herokuapp.com/)
